@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\classProject\classProject\bin\Debug\net8.0\classProject.exe
+C:\Users\Gamze\source\repos\classProject\classProject\bin\Debug\net8.0\classProject.deps.json
+C:\Users\Gamze\source\repos\classProject\classProject\bin\Debug\net8.0\classProject.runtimeconfig.json
+C:\Users\Gamze\source\repos\classProject\classProject\bin\Debug\net8.0\classProject.dll
+C:\Users\Gamze\source\repos\classProject\classProject\bin\Debug\net8.0\classProject.pdb
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.sourcelink.json
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.dll
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\refint\classProject.dll
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.pdb
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\classProject.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\classProject\classProject\obj\Debug\net8.0\ref\classProject.dll
